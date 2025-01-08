@@ -1,0 +1,45 @@
+#logo{
+    height: 40px;
+}
+
+.zoom-effect img {
+    transition: transform 0.3s ease;
+}
+
+.zoom-effect img:hover {
+    transform: scale(1.1);
+}
+
+#bgimg {
+    background-image: url('./images/1068.png');
+
+}
+.scroll-hidden {
+    scrollbar-width: none;
+  }
+
+
+  .accordion .accordion-button {
+    font-size: 0.85rem; /* Smaller font size */
+    padding: 0.5rem;    /* Reduced padding */
+        width: 270px;
+  }
+
+  .accordion .accordion-body {
+    font-size: 0.8rem; /* Smaller font size */
+    padding: 0.75rem;  /* Reduced padding */
+        width: 270px;
+    
+  }
+
+  .accordion-item {
+    margin-bottom: 0.5rem; /* Less spacing between items */
+  }
+
+  #menu img{
+    width: 270px;
+    height: 270px;
+  }
+
+
+ 
